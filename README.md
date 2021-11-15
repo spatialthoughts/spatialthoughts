@@ -1,6 +1,6 @@
 ## Ujaval Gandhi
 
-I am the founder of [Spatial Thoughts](https://spatialthoughts.com/) and author of several open-source learning materials. The technologies I primarily work with are **QGIS**, **Python**, **GDAL** and **Google Earth Engine**. I am strong believer in open-source, open-data and open-learning materials.
+I am the founder of [Spatial Thoughts](https://spatialthoughts.com/) and author of several open-source learning resources. The technologies I primarily work with are **QGIS**, **Python**, **GDAL** and **Google Earth Engine**. I am strong believer in open-source, open-data and open-learning materials.
 
 You can check out my work through the links below.
 
