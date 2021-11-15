@@ -1,5 +1,12 @@
-### Hi there 👋
+## Ujaval Gandhi
 
+I am the founder of [Spatial Thoughts](https://spatialthoughts.com/) and author of several open-source learning materials. The technologies I primarily work with are - QGIS, Python, GDAL and Google Earth Engine. 
+
+You will find links below to useful learning resources and code link below.
+
+- [QGIS Tutorials and Tips](http://www.qgistutorials.com/): Available in 10+ languages and used by 1M+ users every year. Covers all topics suitable from beginner to advanced users with step-by-step instructions. Tech stack *RST/Sphinx/Github Pages* [view source code](https://github.com/spatialthoughts/qgis-tutorials)
+- [SpatialThoughts OpenCourseWare](https://courses.spatialthoughts.com/): Comprehensive and structured course materials for advanced topics. Shared under open-license suitable for self-learning and non-commercial use. Tech stack *Markdown/R Studio/Github Pages*. [view source code](https://github.com/spatialthoughts/courses)
+- 
 <!--
 **spatialthoughts/spatialthoughts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
