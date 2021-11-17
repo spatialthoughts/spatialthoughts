@@ -13,7 +13,7 @@ You can check out my work through the links below.
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/spatialthoughts?style=social)](https://twitter.com/spatialthoughts) [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/spatialthoughts)
 
-## Popular Blog Posts
+## Popular Posts
 
 ### Google Earth Engine
 - [Extracting Time Series using Google Earth Engine](https://spatialthoughts.com/2020/04/13/extracting-time-series-ee/)
@@ -32,9 +32,13 @@ You can check out my work through the links below.
 
 ### Python
 - [Fast Point-in-Polygon Analysis with GeoPandas and Uber’s H3 Spatial Index](https://spatialthoughts.com/2020/07/01/point-in-polygon-h3-geopandas/)
-- [Approximating Geodesic Buffers in QGIS](https://spatialthoughts.com/2019/04/05/geodesic-buffers-in-qgis/)
-- [Snapping GPS tracks to Roads using QGIS and OSRM](https://spatialthoughts.com/2020/02/22/snap-to-roads-qgis-and-osrm/)
+- [Approximating Geodesic Buffers with PyQGIS](https://spatialthoughts.com/2019/04/05/geodesic-buffers-in-qgis/)
+- [Snapping GPS tracks to Roads using PyQGIS and OSRM](https://spatialthoughts.com/2020/02/22/snap-to-roads-qgis-and-osrm/)
 
+### GDAL
+- [Convert between Orthometric and Ellipsoidal Elevations using GDAL](https://spatialthoughts.com/2019/10/26/convert-between-orthometric-and-ellipsoidal-elevations-using-gdal/)
+- [Fixing Rasters with Missing Data using QGIS, GDAL and Python](https://spatialthoughts.com/2020/06/17/fix-nodata-values/)
+- [Reclassifying Rasters using gdal_calc](https://spatialthoughts.com/2019/12/28/gdal-calc/)
 
 
 <!--
