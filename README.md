@@ -6,6 +6,7 @@ You can check out my work through the links below.
 
 - [QGIS Tutorials and Tips](http://www.qgistutorials.com/): Available in 10+ languages and used by 1M+ users every year. Covers all topics suitable from beginner to advanced users with step-by-step instructions. Built using *RST/Sphinx/Github Pages*. [[view source code]](https://github.com/spatialthoughts/qgis-tutorials)
 - [SpatialThoughts OpenCourseWare](https://courses.spatialthoughts.com/): Comprehensive and structured course materials for advanced topics. Shared under open-license suitable for self-learning and non-commercial use. Built using *Markdown/R Studio/Github Pages*. [[view source code]](https://github.com/spatialthoughts/courses)
+- [Geospatial Python Tutorials](https://www.geopythontutorials.com/): Step-by-step tutorials in form of Jupyter Notebooks that cover advanced topics for GeoPandas, Xarray, Dask and more. Built using *Jupyterbook/Github Pages*. [[view source code]](https://github.com/spatialthoughts/geopython-tutorials)
 - [Spatial Thoughts YouTube Channel](https://www.youtube.com/c/spatialthoughts): Full-length courses, tutorials, lectures, guided projects and more content in easy to understand videos.
 - [Spatial Thoughts Blog](https://spatialthoughts.com/blog/): Regularly updated blog covering events and technical topics related to open-source geospatial technologies such as QGIS, Earth Engine, GDAL, Mapshaper and more.
 
@@ -13,14 +14,6 @@ You can check out my work through the links below.
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/spatialthoughts?style=social)](https://twitter.com/spatialthoughts) [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/spatialthoughts)
 
-## Open Access Video Courses
-
-- [Python Foundation for Spatial Analysis](https://www.youtube.com/playlist?list=PLppGmFLhQ1HJspXSA0asH9kw1OhlLrxHT)
-- [Advanced QGIS](https://www.youtube.com/playlist?list=PLppGmFLhQ1HIqNiNWxVqs5wBLiA_UrKTQ)
-- [Mastering GDAL Tools](https://www.youtube.com/playlist?list=PLppGmFLhQ1HLVaHVf4TsnJ4HXZBSfxLOK)
-- [Google Earth Engine for Water Resources Management](https://www.youtube.com/playlist?list=PLppGmFLhQ1HI0YeA5zQHxdNlmxihvBawF)
-- [Creating Publication Quality Charts in GEE](https://www.youtube.com/playlist?list=PLppGmFLhQ1HKyrR75waIq6TfqL0ESlQao)
-  
 ## Popular Posts
 
 ### Google Earth Engine
@@ -30,6 +23,7 @@ You can check out my work through the links below.
 - [Temporal Gap-Filling with Linear Interpolation in GEE](https://spatialthoughts.com/2021/11/08/temporal-interpolation-gee/)
 - [Working with QA Bands and Bitmasks in Google Earth Engine](https://spatialthoughts.com/2021/08/19/qa-bands-bitmasks-gee/)
 - [Exploring the Global 30m Land Cover Change Dataset (1985-2022) GLC_FCS30D](https://spatialthoughts.com/2024/06/29/global-landcover-glcfcs30d/)
+- [Extracting Building Heights from Open Buildings 2.5D Temporal Dataset](https://spatialthoughts.com/2025/03/29/building_height_gee/)
 
 ### QGIS
 - [Summary Aggregate and Spatial Filters in QGIS](https://spatialthoughts.com/2019/04/12/summary-aggregation-qgis/)
@@ -39,6 +33,7 @@ You can check out my work through the links below.
 - [Fuzzy Table Joins in QGIS](https://spatialthoughts.com/2019/09/26/fuzzy-table-joins-in-qgis/)
 - [Find Neighbor Polygons using Summary Aggregate Function in QGIS](https://spatialthoughts.com/2019/05/23/neighbor-polygons-aggregate-qgis/)
 - [Rendering Print Layouts from QGIS Models](https://spatialthoughts.com/2024/04/08/rendering-print-layouts/)
+- [Creating QGIS Models with Optional Inputs and Conditional Processing](https://spatialthoughts.com/2024/11/29/qgis-coditional-input-model/)
 
 ### Python
 - [Fast Point-in-Polygon Analysis with GeoPandas and Uber’s H3 Spatial Index](https://spatialthoughts.com/2020/07/01/point-in-polygon-h3-geopandas/)
